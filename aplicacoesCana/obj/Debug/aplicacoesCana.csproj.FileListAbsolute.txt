@@ -1,0 +1,53 @@
+D:\Dropbox\MESTRADO\[03] CANA (CKP7477)\Codigos\aplicacoesCana\aplicacoesCana\bin\Debug\aplicacoesCana.exe.config
+D:\Dropbox\MESTRADO\[03] CANA (CKP7477)\Codigos\aplicacoesCana\aplicacoesCana\bin\Debug\aplicacoesCana.exe
+D:\Dropbox\MESTRADO\[03] CANA (CKP7477)\Codigos\aplicacoesCana\aplicacoesCana\bin\Debug\aplicacoesCana.pdb
+D:\Dropbox\MESTRADO\[03] CANA (CKP7477)\Codigos\aplicacoesCana\aplicacoesCana\obj\Debug\aplicacoesCana.csprojResolveAssemblyReference.cache
+D:\Dropbox\MESTRADO\[03] CANA (CKP7477)\Codigos\aplicacoesCana\aplicacoesCana\obj\Debug\aplicacoesCana.Form1.resources
+D:\Dropbox\MESTRADO\[03] CANA (CKP7477)\Codigos\aplicacoesCana\aplicacoesCana\obj\Debug\aplicacoesCana.Properties.Resources.resources
+D:\Dropbox\MESTRADO\[03] CANA (CKP7477)\Codigos\aplicacoesCana\aplicacoesCana\obj\Debug\aplicacoesCana.csproj.GenerateResource.Cache
+D:\Dropbox\MESTRADO\[03] CANA (CKP7477)\Codigos\aplicacoesCana\aplicacoesCana\obj\Debug\aplicacoesCana.exe
+D:\Dropbox\MESTRADO\[03] CANA (CKP7477)\Codigos\aplicacoesCana\aplicacoesCana\obj\Debug\aplicacoesCana.pdb
+D:\Dropbox\MESTRADO\[03] CANA (CKP7477)\Codigos\aplicacoesCana_VS2012\aplicacoesCana\bin\Debug\aplicacoesCana.exe.config
+D:\Dropbox\MESTRADO\[03] CANA (CKP7477)\Codigos\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.exe
+D:\Dropbox\MESTRADO\[03] CANA (CKP7477)\Codigos\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.pdb
+D:\Dropbox\MESTRADO\[03] CANA (CKP7477)\Codigos\aplicacoesCana_VS2012\aplicacoesCana\bin\Debug\aplicacoesCana.exe
+D:\Dropbox\MESTRADO\[03] CANA (CKP7477)\Codigos\aplicacoesCana_VS2012\aplicacoesCana\bin\Debug\aplicacoesCana.pdb
+D:\Dropbox\MESTRADO\[03] CANA (CKP7477)\Codigos\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.csprojResolveAssemblyReference.cache
+D:\Dropbox\MESTRADO\[03] CANA (CKP7477)\Codigos\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.Properties.Resources.resources
+D:\Dropbox\MESTRADO\[03] CANA (CKP7477)\Codigos\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.csproj.GenerateResource.Cache
+D:\Dropbox\MESTRADO\[03] CANA (CKP7477)\Codigos\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.FormLista1.resources
+D:\Dropbox\MESTRADO\[03] CANA (CKP7477)\Codigos\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.FormOrdenacao.resources
+D:\Dropbox\MESTRADO\[03] CANA (CKP7477)\Codigos\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.FormLista2.resources
+D:\Dropbox\MESTRADO\[03] CANA (CKP7477)\Codigos\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.FormAlgGulosos.resources
+D:\Dropbox\MESTRADO\[01] CANA (CKP7477) Nota 9.8\Codigos\aplicacoesCana_VS2012\aplicacoesCana\bin\Debug\aplicacoesCana.exe.config
+D:\Dropbox\MESTRADO\[01] CANA (CKP7477) Nota 9.8\Codigos\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.exe
+D:\Dropbox\MESTRADO\[01] CANA (CKP7477) Nota 9.8\Codigos\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.pdb
+E:\MESTRADO\[01] CANA (CKP7477) Nota 9.8\Codigos\aplicacoesCana_VS2012\aplicacoesCana\bin\Debug\aplicacoesCana.exe.config
+E:\MESTRADO\[01] CANA (CKP7477) Nota 9.8\Codigos\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.exe
+E:\MESTRADO\[01] CANA (CKP7477) Nota 9.8\Codigos\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.pdb
+D:\OneDrive\_GITHUB\CANA\aplicacoesCana_VS2012\aplicacoesCana\bin\Debug\aplicacoesCana.exe.config
+D:\OneDrive\_GITHUB\CANA\aplicacoesCana_VS2012\aplicacoesCana\bin\Debug\aplicacoesCana.exe
+D:\OneDrive\_GITHUB\CANA\aplicacoesCana_VS2012\aplicacoesCana\bin\Debug\aplicacoesCana.pdb
+D:\OneDrive\_GITHUB\CANA\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.csprojAssemblyReference.cache
+D:\OneDrive\_GITHUB\CANA\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.FormAlgGulosos.resources
+D:\OneDrive\_GITHUB\CANA\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.FormLista1.resources
+D:\OneDrive\_GITHUB\CANA\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.FormLista2.resources
+D:\OneDrive\_GITHUB\CANA\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.FormOrdenacao.resources
+D:\OneDrive\_GITHUB\CANA\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.Properties.Resources.resources
+D:\OneDrive\_GITHUB\CANA\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.csproj.GenerateResource.cache
+D:\OneDrive\_GITHUB\CANA\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.csproj.CoreCompileInputs.cache
+D:\OneDrive\_GITHUB\CANA\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.exe
+D:\OneDrive\_GITHUB\CANA\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.pdb
+D:\_GITHUB\CANA-disc\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.csproj.AssemblyReference.cache
+D:\_GITHUB\CANA-disc\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.FormAlgGulosos.resources
+D:\_GITHUB\CANA-disc\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.FormLista1.resources
+D:\_GITHUB\CANA-disc\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.FormLista2.resources
+D:\_GITHUB\CANA-disc\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.FormOrdenacao.resources
+D:\_GITHUB\CANA-disc\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.Properties.Resources.resources
+D:\_GITHUB\CANA-disc\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.csproj.GenerateResource.cache
+D:\_GITHUB\CANA-disc\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.csproj.CoreCompileInputs.cache
+D:\_GITHUB\CANA-disc\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.exe
+D:\_GITHUB\CANA-disc\aplicacoesCana_VS2012\aplicacoesCana\obj\Debug\aplicacoesCana.pdb
+D:\_GITHUB\CANA-disc\aplicacoesCana_VS2012\aplicacoesCana\bin\Debug\aplicacoesCana.exe.config
+D:\_GITHUB\CANA-disc\aplicacoesCana_VS2012\aplicacoesCana\bin\Debug\aplicacoesCana.exe
+D:\_GITHUB\CANA-disc\aplicacoesCana_VS2012\aplicacoesCana\bin\Debug\aplicacoesCana.pdb
